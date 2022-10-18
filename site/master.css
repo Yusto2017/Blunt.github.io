@@ -1,0 +1,63 @@
+body{
+  background-color: powderblue;
+  font-size:300%;
+  background-image: url('images/home.JPEG');
+  background-size: contain;
+  opacity: 0.7;
+
+
+
+
+}
+.table{
+  height:100px;
+  width:100px;
+  background-color; black;
+  border:2px;
+  allign: center;
+
+}
+h1{
+  color: black;
+  font-family:ariel;
+  text-decoration: underline;
+
+}
+
+.signup{
+
+  width: 25%;
+  height: 50%x;
+  background-color: grey;
+  padding: 20px;
+  margin: 5px 0 22px 0;
+  background: #f1f1f1;
+  display: inline-block;
+  border:none;
+  border-style: dashed;
+
+
+
+}
+
+.button{
+  display: inline-block;
+          background-color: #7b38d8;
+          border-radius: 10px;
+          border: 4px double #cccccc;
+          color: #eeeeee;
+          text-align: center;
+          font-size: 15px;
+          padding: 20px;
+          width: 100px;
+          -webkit-transition: all 0.5s;
+          -moz-transition: all 0.5s;
+          -o-transition: all 0.5s;
+          transition: all 0.5s;
+          cursor: pointer;
+          margin: 5px;
+          position: sticky;
+          
+
+
+}
